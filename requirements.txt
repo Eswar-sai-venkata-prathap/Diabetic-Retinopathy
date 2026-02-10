@@ -1,0 +1,10 @@
+tensorflow
+opencv-python-headless
+scikit-learn
+matplotlib
+streamlit
+pandas
+seaborn
+imbalanced-learn
+kaggle
+kagglehub
